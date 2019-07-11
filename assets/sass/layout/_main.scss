@@ -1,0 +1,27 @@
+.main-section {
+  font-weight: $regular;
+  padding: 5rem;
+
+  .text-color{
+  	color: $spanish-pink
+  }
+
+
+  p {
+    margin-top: 2rem;
+    line-height: 2.5em;
+  }
+
+  &__share {
+    padding-top: 4em;
+    padding-bottom: 5em;
+  }
+
+.foto-author {
+  border-top: 1px solid $light-gray;
+  padding-top: 5rem;
+  padding-bottom:5rem;
+
+  }
+
+}

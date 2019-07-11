@@ -1,0 +1,20 @@
+.navbar {
+  background-color: $eerie-black;
+  z-index: 1;
+  width: 100vw;
+  color: white;
+
+  .text-navbar {
+    color: $white;
+    text-align: right;
+  }
+
+  img {
+    size: $medium; 
+  }
+
+  .current{
+    color: $ruddy-pink;
+  }
+}
+
